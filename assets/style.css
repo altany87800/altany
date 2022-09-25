@@ -1,0 +1,22 @@
+body {
+    background-color: #000;
+}
+
+video.avs {
+  width: 100%;
+  height: auto;
+}
+
+.color-altany {
+    background-color: #ff4a0b!important;
+}
+
+a {
+    text-decoration: none;
+    color: #000!important;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #000!important;
+}
